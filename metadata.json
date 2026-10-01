@@ -1,0 +1,10 @@
+{
+  "name": "Align & Nourish: AI Posture & Wellness Tracker",
+  "description": "Real-time webcam AI posture monitor, smart hydration tracker, and scheduled medicine intake management for personal wellness.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
